@@ -1,0 +1,1 @@
+La estructura de la página es sencilla, solo se tiene que deslizar hacia abajo para leer completamente, de igual manera se incluyó imagenes y un enlace a la página principal hasta la parte de abajo para obtener mas información
